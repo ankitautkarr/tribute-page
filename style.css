@@ -1,0 +1,87 @@
+.container {
+    width: 37rem;
+    border: 10px solid black;
+    margin: auto;
+    padding: 12px 12px;
+    background-color:rgb(207, 207, 207);
+    font-size: x-large;
+}
+
+
+.head{
+    padding-left: 5rem;
+}
+
+.img {
+    height: 8rem;
+    border: 8px solid rgb(255, 0, 0);
+    border-radius: 100px;
+}
+
+.heading{
+    display:flex;
+}
+
+.para{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.table {
+    border: 5px solid black;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.tableh{
+    color: red;
+    font-weight: 900;
+    font-weight: 600;
+}
+
+.th{
+    padding-left: 2rem;
+}
+
+.td{
+    padding-left: 1.9rem;
+}
+
+.th1{
+    padding-left: 0.5rem;
+}
+
+.td1{
+    padding-left: 0.5rem;
+}
+
+.list{
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.year{
+    padding-left: 1rem;
+}
+
+.span1{
+    color: RED;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.span2{
+font-weight: 900;
+color: red;
+}
+
+.social{
+    border: 2px red solid;
+    border-radius: 20px;
+    padding: 0.3rem 0.3rem ;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: 900;
+    
+}
